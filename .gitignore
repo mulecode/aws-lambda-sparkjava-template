@@ -1,5 +1,17 @@
+# idea
+.idea
+build
+out
+
+# gradle
+.gradle
+
 # Compiled class file
 *.class
+
+# terraform
+.terraform
+build.plan
 
 # Log file
 *.log
